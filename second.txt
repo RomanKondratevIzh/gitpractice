@@ -1,2 +1,4 @@
 some text
 it is second string
+it is second string but in another branch
+
